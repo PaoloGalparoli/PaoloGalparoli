@@ -5,5 +5,5 @@ A System engineer, coding enthusiast
 🔮 VMware Certified Professional  
 💿 NetApp Certified Data Administrator  
 -----------
-🌄🚲 mMuntain and sports lover  
+🌄🚲 Mountain and sports lover  
 🔥⛺ AGESCI Educator  

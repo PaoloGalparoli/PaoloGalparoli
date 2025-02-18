@@ -7,3 +7,6 @@ Hello there 👋 I'm Paolo
 -----------
 🌄🚲 Mountain and sports lover  
 🔥⛺ AGESCI Educator  
+
+<a href="https://www.linkedin.com/in/paolo-galparoli" target="blank"><img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paolo galparoli" height="30" width="40" /></a>
+</p>
